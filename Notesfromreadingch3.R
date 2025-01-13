@@ -189,9 +189,6 @@ We can also summarise our data for each level of a factor variable. Let’s say 
 The tapply() function is not just restricted to calculating mean values, you can use it to apply many of the functions that come with R or even functions you’ve written yourself (see Chapter 7 for more details). For example, we can apply the sd() function to calculate the standard deviation for each level of nitrogen or even the summary() function.
 tapply(flower$height, flower$nitrogen, sd)
 tapply(flower$height, flower$nitrogen, summary)
-
-
-
-
-
-
+?copilot
+#load the copilot package
+library(copilot)
