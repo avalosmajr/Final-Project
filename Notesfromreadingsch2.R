@@ -109,3 +109,5 @@ help.search("mean")
 ??mean
 apropos(mean)
 apropos("mean")
+dataf
+str(dataf)
