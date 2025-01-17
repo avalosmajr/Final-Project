@@ -192,3 +192,4 @@ tapply(flower$height, flower$nitrogen, summary)
 ?copilot
 #load the copilot package
 library(copilot)
+2+2
