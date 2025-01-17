@@ -35,3 +35,12 @@ Note for knit to html below
 library(rmarkdown)
 
 render('my_first_rmarkdown.Rmd', output_format = 'html_document')
+
+<!-- the beginning and end of this is how to insert comments on rmarkdown -->
+
+<!-- quick way to incorporate a code chunk is command+option+I -->
+
+<!-- to insert a header use a # and the more #'s will make it smaller-->
+
+<!-- (We use a - to separate words in our chunk names -->
+
